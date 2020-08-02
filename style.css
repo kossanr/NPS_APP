@@ -9,3 +9,13 @@ body {
 .container {
   text-align: center;
 }
+
+li {
+  list-style-type: none;
+  padding: 20px;
+  font-size: 15px;
+}
+
+ul {
+  padding: 50px;
+}
